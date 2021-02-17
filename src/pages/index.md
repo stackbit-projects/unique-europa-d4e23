@@ -22,8 +22,8 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     subtitle: >-
-      Reliable Network  Enterprise Grade Hardware Multiple <br>Locations 
-      Control Panel Access
+      Reliable Network  Enterprise Grade Hardware Multiple Locations  Control
+      Panel Access
   - type: features_section
     title: Features
     features:
