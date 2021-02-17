@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Aqua Hosting
-    subtitle: Affordable Hosting for as little as $5/month.
     actions:
       - label: Learn More
         url: /features
