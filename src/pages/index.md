@@ -21,6 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    subtitle: ' Reliable Network  Enterprise Grade Hardware  Free Advanced Linux Support  Multiple Locations  Control Panel & IPMI Access'
   - type: features_section
     title: Features
     features:
